@@ -1,0 +1,6 @@
+Projekt Docker Gym IPT4.1 Khalil Hamahmi
+
+Das Thema vom Projekt ist eine Gym Webseite zu machen und das Ziel vom Kunden ist es eine Webseite für die vielen Studios, die er hat zu erstellen, er möchte damit auch Kunden online anlocken.
+Für die Datenbank habe ich mir 4 Tabellen überlegt, die wären Kunde, Studios, Kurse und Buchung. Die ganze Logik wird beim Er Diagramm angezeigt.
+Ich habe mir auch als Funktion ein BMI Rechner, welcher bei der Webseite ist zu hinzufügen, damit man weiss, wo man steht.
+Die Ganze Webseite sollte in der Farbe des Gym gestaltet werden also orangen und weiss. Er soll wie üblich einenNavigationsbar haben und es sollte ersichtlich sein welche Gym’s für welche Kategorie jeweils verfügbar sind.
